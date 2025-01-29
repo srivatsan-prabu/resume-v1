@@ -1,6 +1,8 @@
 ---
 title: Skills
-nav_order: 2
+layout: default
 ---
-## Skills
-Placeholder.
+
+# Skills
+
+Placeholder
