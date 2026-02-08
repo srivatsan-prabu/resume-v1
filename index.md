@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 ## Goal
 I aspire to become an industry-leading expert in
@@ -17,4 +18,6 @@ Continuous Learning @ Home
 ▪ IoT: Arduino
 ▪ Programming: Java, Python
 ▪ Documentation/Notes: Markdown
+
+- [Experience](/experience/)
 
