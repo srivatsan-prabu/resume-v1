@@ -1,0 +1,9 @@
+// Always expand Leadership Training section
+.nav-list-item:has(> .nav-list > .nav-list-item a[href*="leadership-training"]) > .nav-list {
+  display: block !important;
+}
+
+// Make sure the children of Leadership Training are always visible
+.nav-list .nav-list-item a[href*="leadership-training"] ~ .nav-list {
+  display: block !important;
+}
